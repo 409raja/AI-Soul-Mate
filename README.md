@@ -1,2 +1,3 @@
-# AI-Soul-Mate
-A modular, Python-based document QA tool supporting both OpenAI GPT and Google Gemini for intelligent, PDF-based conversations.
+# AI Study Buddy v2 — Chat with Your PDFs (GPT + Gemini)
+
+... (see project for full README)

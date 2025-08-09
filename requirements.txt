@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-google-genai
+google-genai
+openai
+sentence-transformers
+faiss-cpu
+pymupdf
+deep-translator
+gTTS
+python-dotenv
+pypdf
